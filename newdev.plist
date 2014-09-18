@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://10.242.110.82/ugicon.png</string>
+					<string>https://raw.githubusercontent.com/sunshinexyj/ipaInstall/master/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://10.242.110.82/ugicon.png</string>
+					<string>https://raw.githubusercontent.com/sunshinexyj/ipaInstall/master/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
