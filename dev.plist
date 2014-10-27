@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://10.246.13.179:8085/ipa/release/ug_release.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://10.246.13.179:8085/ipa/release/ugicon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://10.246.13.179:8085/ipa/release/ugicon.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
