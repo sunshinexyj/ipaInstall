@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.246.13.179/release/ug_release.ipa</string>
+					<string>http://10.240.146.13/CakeMania.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.163.ug</string>
+				<key>subtitle</key>
+				<string>dgwy</string>
+				<key>title</key>
+				<string>蛋糕物语</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>ugrun</string>
-				<key>title</key>
-				<string>UGRun-JS IOS</string>
+				<key>bundle-identifier</key>
+				<string>com.netease.H3</string>
 			</dict>
 		</dict>
 	</array>
