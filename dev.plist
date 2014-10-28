@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.246.13.179:8085/ipa/release/ug_release.ipa</string>
+					<string>http://10.246.13.179/release/ug_release.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,9 +23,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>UGRun-JS</string>
+				<string>UGRun-JS IOS</string>
 				<key>title</key>
-				<string>UGRun-JS</string>
+				<string>UGRun-JS IOS</string>
 			</dict>
 		</dict>
 	</array>
