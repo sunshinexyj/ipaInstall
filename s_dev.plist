@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.246.13.179/release/ug.ipa</string>
+					<string>http://10.246.13.179/release/ug_release_adhoc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.163.itest.h16.ll</string>
+				<string>com.netease.holyspirit</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
